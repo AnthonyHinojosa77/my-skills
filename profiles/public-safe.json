@@ -1,0 +1,12 @@
+{
+  "description": "Generic toolkit payload without personal history, backups, or personal preferences. Does not sanitize existing project files.",
+  "instruction_file": "adapters/shared/portable.md",
+  "skill_root": "skills",
+  "skills": [
+    "babysit-pr",
+    "capability-check",
+    "file-pr",
+    "html-communication"
+  ],
+  "repository_key": "public_repository"
+}

@@ -1,0 +1,1 @@
+Read and follow the root AGENTS.md working agreement and the nearest applicable project instructions. Inspect the repository's README, configuration, and validation commands before changing code. Preserve existing architecture and business rules, validate the requested behavior, and report the actual result with its remaining limitations.
