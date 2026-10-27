@@ -8,6 +8,7 @@ A small, reviewed collection of generic skills and a project installer for Codex
 - `capability-check`: verify a capability in its exact runtime and account.
 - `file-pr`: prepare and file a pull request after an explicit request.
 - `html-communication`: create a self-contained HTML decision artifact after an explicit request.
+- `stop-texting-and-emailing-me-gov`: reduce unwanted political texts and email, and postal mail when requested.
 
 ## Install into an existing project
 
