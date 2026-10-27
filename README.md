@@ -7,6 +7,7 @@ A small, reviewed collection of generic skills and a project installer for Codex
 - `babysit-pr`: bounded pull-request monitoring after an explicit request.
 - `capability-check`: verify a capability in its exact runtime and account.
 - `file-pr`: prepare and file a pull request after an explicit request.
+- `github-actions-replacements`: replace workflow responsibilities with verified external Claude routines and reversible cutover.
 - `html-communication`: create a self-contained HTML decision artifact after an explicit request.
 - `stop-texting-and-emailing-me-gov`: reduce unwanted political texts and email, and postal mail when requested.
 
