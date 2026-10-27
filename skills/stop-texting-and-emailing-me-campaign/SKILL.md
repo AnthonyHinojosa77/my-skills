@@ -1,5 +1,5 @@
 ---
-name: stop-texting-and-emailing-me-gov
+name: stop-texting-and-emailing-me-campaign
 description: Reduce unwanted political texts and email by identifying the actual senders, preparing authorized opt-outs, and finding device filters. Include postal mail when requested. Do not promise complete suppression.
 ---
 
