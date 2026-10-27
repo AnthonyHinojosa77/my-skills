@@ -1,0 +1,18 @@
+---
+name: stop-texting-and-emailing-me-gov
+description: Reduce unwanted political texts and email by identifying the actual senders, preparing authorized opt-outs, and finding device filters. Include postal mail when requested. Do not promise complete suppression.
+---
+
+# Reduce political messages
+
+Work toward stopping unwanted political texts and email with the fewest user actions possible. Many independent organizations send political messages; this workflow has no universal opt-out. Treat filtering, sender opt-outs, voter-data suppression, email, and postal mail as distinct outcomes.
+
+1. Identify the country, phone platform, and channels in scope. Check authorized connected sources and the conversation before asking for information. When permitted, inspect a bounded set of recent political messages; distinguish confirmed senders from candidates or groups merely mentioned. Preserve unrelated messages and user activity.
+2. Verify current official guidance and the actual sender or provider before recommending or contacting it. A STOP reply generally addresses a particular sender or program, not every campaign. Do not reply to suspicious messages or follow suspect links. Send messages or disclose contact details only with the explicit instructions required by the active runtime. When approved, send only the specified requests and verify sent status and any response.
+3. Investigate opt-outs with relevant voter-data suppliers and senders. Verify each supplier's current procedure and geographic eligibility. Use the person's authorized details; leave identity certification, security checks, and human verification to the person. Distinguish a prepared form from an accepted removal, and never infer that a supplier's opt-out removes government records or data held by other providers.
+4. For email, identify genuine senders and use their verified unsubscribe process when authorized; avoid suspicious links. Where supported and authorized, offer inbox rules that divert unwanted messages without deleting unrelated mail. Do not assume every political email is covered by commercial email rules.
+5. Find practical device filters using current official platform documentation. Confirm whether a filter is installed, enabled, and tested on the person's actual device; otherwise say it is unverified. Explain whether it moves messages or prevents delivery, its coverage, and the possibility of hiding wanted messages. Check privacy implications and current costs before recommending a third-party filter; never start a purchase without authorization.
+6. If physical mail is in scope, identify organizations from actual mailpieces when available and request removal from their lists with authorization. Note the limits of mass household mail and address records; do not cancel voter registration as an opt-out. Do not infer a text sender also sent a mailer.
+7. Report what was sent, confirmed, pending, blocked, or unverified, with sources for material claims and one clear action for any necessary human step. Do not call the requested work complete without evidence for each channel. Do not start recurring monitoring or automatic replies without explicit authorization.
+
+For U.S. rules, start with the [FCC consumer guide to political robocalls and texts](https://www.govinfo.gov/content/pkg/GOVPUB-CC-PURL-gpo252648/pdf/GOVPUB-CC-PURL-gpo252648.pdf), the [FTC's political email guidance](https://www.ftc.gov/business-guidance/blog/2015/08/candid-answers-can-spam-questions), and [Apple's unknown-sender filtering instructions](https://support.apple.com/en-us/125068). Check local rules and provider pages live; do not assume U.S. rules apply elsewhere.
