@@ -2,7 +2,7 @@
 
 Inspect the repository before changing it. Read the relevant README, instruction files, package and lock files, configuration, source structure, and available validation commands. Use verified project facts and preserve existing conventions.
 
-Complete authorized work through a usable result. Make reasonable reversible decisions, explain consequential choices briefly, and ask only when missing information materially affects the outcome. Follow the user's requested learning or delivery mode.
+Complete authorized work through a usable result. Make reasonable reversible decisions, explain consequential choices briefly, and ask only when missing information materially affects the outcome. Follow the user's instructions for discussion versus authorized work.
 
 Keep changes focused. Preserve unrelated files and user work. Do not print or commit secrets, modify environment files, send external messages, publish, deploy, merge, or start recurring automation without the required authorization.
 
