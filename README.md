@@ -6,7 +6,7 @@ A small, reviewed collection of generic skills and a project installer for Codex
 
 - `babysit-pr`: bounded pull-request monitoring after an explicit request.
 - `capability-check`: verify a capability in its exact runtime and account.
-- `file-pr`: prepare and file a pull request after an explicit request.
+- `file-pr`: on explicit request, deliver a finished change: validate it, have a fresh independent reviewer check the committed change, and on an In Spec verdict push it straight to the default branch. Pull requests only where a task or repository requires one, with no auto-merge or standing watchers.
 - `free-up-storage`: review macOS, Windows, or Linux storage and verify approved cleanup, including permanent deletion status.
 - `github-actions-replacements`: replace workflow responsibilities with verified external Claude routines and reversible cutover.
 - `html-communication`: create a self-contained HTML decision artifact after an explicit request.
