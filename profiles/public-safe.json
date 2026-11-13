@@ -3,13 +3,23 @@
   "instruction_file": "adapters/shared/portable.md",
   "skill_root": "skills",
   "skills": [
+    "adhd",
     "babysit-pr",
+    "brief-me",
     "capability-check",
     "file-pr",
+    "frontend-design",
+    "html-communication",
+    "talk-normal",
+    "teardown",
     "free-up-storage",
     "github-actions-replacements",
-    "html-communication",
     "stop-texting-and-emailing-me-campaign"
   ],
-  "repository_key": "public_repository"
+  "repository_key": "public_repository",
+  "always_skills": [
+    "adhd",
+    "brief-me",
+    "talk-normal"
+  ]
 }

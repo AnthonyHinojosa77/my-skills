@@ -1,15 +1,20 @@
 {
   "schema_version": 1,
-  "version": "1.0.0",
+  "version": "4.0.0",
   "repository": "https://github.com/AnthonyHinojosa77/my-skills",
   "public_repository": "https://github.com/AnthonyHinojosa77/my-skills",
   "public_skills": [
+    "adhd",
     "babysit-pr",
+    "brief-me",
     "capability-check",
     "file-pr",
+    "frontend-design",
+    "html-communication",
+    "talk-normal",
+    "teardown",
     "free-up-storage",
     "github-actions-replacements",
-    "html-communication",
     "stop-texting-and-emailing-me-campaign"
   ]
 }
